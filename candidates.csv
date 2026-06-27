@@ -1,0 +1,501 @@
+Name,Age,Gender,Degree,CGPA,Python,Java,SQL,PowerBI,Excel,Internships,Projects,Certifications,Aptitude,Communication,Experience,Selected
+Ritika Kumar,20,Female,B.Tech AIML,7.15,0,0,0,0,1,0,1,0,53,59,0,0
+Harsha Reddy,30,Female,B.Tech AIML,9.68,1,1,0,0,1,2,5,1,53,93,2,1
+Sneha Kumar,26,Male,B.Tech IT,8.72,1,1,0,1,0,3,2,4,58,98,2,1
+Sai Reddy,21,Male,B.Sc Computer Science,8.13,0,1,0,0,0,3,5,3,80,98,2,1
+Anjali Sharma,25,Male,B.Sc Computer Science,6.19,1,0,0,0,0,3,7,2,99,85,1,1
+Aditya Sharma,20,Male,B.Tech CSE,6.19,1,1,1,0,0,2,4,5,71,70,3,1
+Rohan Sharma,22,Male,B.Sc Computer Science,5.76,1,1,1,1,0,1,8,0,88,48,0,1
+Rohan Naidu,22,Female,MCA,9.31,0,1,1,1,1,0,2,5,96,79,2,1
+Keerthi Naidu,25,Male,B.Tech IT,8.14,1,0,1,0,1,1,2,6,80,64,1,1
+Rohan Sharma,22,Male,MCA,8.62,1,1,0,0,1,2,4,0,55,81,0,1
+Amit Naidu,27,Male,MCA,5.59,0,0,1,0,1,3,4,4,88,91,1,1
+Shreya Sharma,26,Female,BCA,9.77,1,0,0,0,0,2,1,4,75,59,1,1
+Rahul Kumar,30,Male,B.Tech AIML,9.16,0,0,1,0,0,2,8,1,74,53,3,1
+Arjun Rao,27,Female,B.Tech AIML,6.43,0,0,1,1,1,3,8,6,86,48,0,1
+Priya Patel,25,Male,B.Tech AIML,6.3,0,0,1,0,1,1,5,3,55,100,0,1
+Akash Rao,28,Male,B.Tech CSE,6.31,0,0,0,0,1,3,8,1,95,70,0,1
+Anjali Patel,20,Female,B.Tech IT,6.84,1,1,1,1,0,1,5,1,43,82,0,1
+Manoj Sharma,20,Male,MCA,7.81,1,0,0,0,0,0,2,5,95,60,3,1
+Sneha Gupta,23,Male,MCA,7.4,0,1,1,1,0,2,4,2,65,53,2,1
+Akash Sharma,21,Male,BCA,6.78,0,0,0,1,0,2,2,1,63,63,1,1
+Akash Rao,28,Female,MCA,8.19,0,1,0,0,1,0,2,5,75,54,2,1
+Vikram Gupta,23,Female,B.Tech AIML,6.11,1,1,1,0,0,3,5,0,40,66,1,1
+Ritika Sharma,22,Female,MCA,6.79,1,0,0,0,0,0,6,4,75,54,3,1
+Rohan Kumar,24,Female,B.Tech CSE,7.11,1,0,0,0,1,3,3,1,95,55,1,1
+Anusha Patel,20,Male,B.Sc Computer Science,7.51,1,1,0,1,0,0,7,6,42,99,3,1
+Arjun Reddy,27,Female,B.Tech IT,8.95,0,0,0,0,1,2,5,6,44,94,2,1
+Suresh Naidu,28,Female,B.Sc Computer Science,6.38,1,0,0,1,0,2,1,0,78,72,2,1
+Manoj Rao,25,Female,MCA,7.76,0,1,0,1,0,3,1,4,99,96,1,1
+Suresh Patel,21,Female,MCA,8.11,1,0,1,1,1,2,7,5,58,80,1,1
+Kiran Patel,30,Female,B.Sc Computer Science,5.7,0,1,1,0,1,2,4,3,90,82,2,1
+Akash Patel,27,Male,MCA,8.17,1,0,0,1,1,0,4,5,59,59,1,1
+Rohan Kumar,20,Male,BCA,6.25,0,1,1,0,1,3,7,1,49,86,0,1
+Anusha Rao,21,Female,B.Tech AIML,5.79,0,1,0,0,0,3,3,6,69,87,2,1
+Keerthi Patel,29,Female,MCA,9.68,1,0,1,1,1,1,5,6,89,78,3,1
+Ritika Reddy,24,Female,B.Tech CSE,9.75,1,0,1,1,1,0,3,1,54,69,1,1
+Shreya Reddy,21,Female,BCA,9.06,1,1,1,0,0,3,7,6,77,89,0,1
+Tarun Rao,29,Female,BCA,6.84,0,1,1,1,1,1,8,1,57,72,3,1
+Rahul Patel,25,Female,B.Sc Computer Science,5.93,0,1,0,0,1,0,2,5,67,53,3,1
+Anjali Kumar,24,Female,B.Tech IT,8.51,0,1,1,1,1,2,7,2,93,50,3,1
+Rahul Naidu,28,Male,B.Tech IT,7.44,0,0,0,0,0,1,1,4,49,60,1,0
+Divya Naidu,21,Male,BCA,6.04,1,1,0,0,0,2,2,4,41,64,3,1
+Pooja Naidu,23,Male,MCA,7.68,0,0,1,0,0,2,7,5,63,49,2,1
+Rahul Rao,26,Female,B.Tech CSE,5.65,1,1,1,0,1,1,5,4,91,79,3,1
+Akash Patel,29,Female,B.Tech IT,9.5,0,0,1,1,0,3,7,2,41,76,2,1
+Anjali Patel,23,Female,B.Tech IT,6.64,1,1,1,0,0,0,4,5,66,76,1,1
+Shreya Patel,30,Female,BCA,8.42,0,0,1,0,1,1,5,5,77,68,3,1
+Harsha Gupta,25,Female,B.Sc Computer Science,6.87,1,1,1,1,1,2,4,0,86,57,2,1
+Sneha Naidu,28,Male,B.Tech AIML,7.79,0,1,1,1,0,1,5,1,63,56,2,1
+Rahul Naidu,28,Male,B.Tech IT,7.91,0,0,1,0,1,0,1,4,58,75,3,1
+Akash Sharma,22,Male,B.Tech IT,6.31,1,0,0,1,1,0,1,1,49,96,2,1
+Amit Reddy,21,Female,MCA,9.77,0,1,1,1,1,3,5,4,79,48,0,1
+Keerthi Reddy,30,Male,B.Tech IT,8.91,0,0,0,0,0,1,1,3,68,89,3,1
+Vikram Kumar,23,Female,B.Sc Computer Science,9.63,1,1,0,0,1,1,7,0,74,59,1,1
+Yash Sharma,22,Male,B.Tech CSE,9.44,0,1,1,1,0,3,5,5,65,62,3,1
+Akash Kumar,29,Male,BCA,8.13,1,1,0,0,0,0,5,4,42,93,1,1
+Divya Gupta,30,Female,B.Tech IT,9.56,0,1,1,0,1,2,7,2,60,87,0,1
+Tarun Reddy,25,Female,B.Sc Computer Science,5.89,1,1,1,0,1,0,6,2,60,52,3,1
+Tarun Gupta,20,Female,BCA,6.36,0,0,1,1,1,0,4,2,75,53,2,1
+Akash Naidu,27,Male,B.Tech CSE,5.7,0,0,1,0,1,0,4,6,98,52,3,1
+Sneha Naidu,22,Female,B.Sc Computer Science,6.93,1,1,1,1,1,1,8,4,49,69,1,1
+Yash Gupta,28,Male,B.Tech CSE,7.21,1,1,1,1,0,2,5,6,77,82,3,1
+Tarun Reddy,27,Female,B.Tech IT,6.69,1,1,1,1,0,1,7,1,94,94,3,1
+Priya Sharma,27,Female,BCA,9.15,0,1,0,0,1,0,8,0,73,74,0,1
+Manoj Reddy,26,Male,B.Tech CSE,7.07,1,1,1,1,0,2,7,2,80,90,3,1
+Tarun Gupta,20,Male,B.Tech AIML,6.74,1,0,0,1,0,0,8,1,84,64,0,1
+Priya Sharma,20,Female,B.Tech IT,7.89,1,1,0,0,1,1,3,1,45,84,3,1
+Kavya Naidu,23,Female,MCA,6.12,0,0,1,1,1,2,1,6,69,63,1,1
+Amit Patel,25,Female,B.Sc Computer Science,9.03,1,1,1,1,0,3,8,0,55,69,2,1
+Sai Sharma,24,Male,B.Sc Computer Science,5.83,1,1,0,0,1,2,4,4,91,67,1,1
+Ritika Reddy,29,Female,B.Sc Computer Science,9.84,0,0,0,1,1,0,6,5,48,50,2,1
+Neha Naidu,26,Male,B.Tech AIML,8.9,0,1,1,0,1,3,5,5,95,66,0,1
+Akash Kumar,22,Male,B.Sc Computer Science,6.37,1,1,0,1,0,2,2,3,63,88,2,1
+Sai Patel,30,Female,B.Tech CSE,5.52,0,1,0,1,0,0,8,5,59,86,3,1
+Sneha Reddy,20,Male,B.Tech IT,9.09,1,0,0,0,0,3,8,2,82,92,3,1
+Sai Naidu,22,Female,B.Sc Computer Science,8.61,0,1,1,1,0,2,4,3,68,60,2,1
+Sneha Naidu,25,Female,B.Tech CSE,8.71,1,1,0,0,1,0,4,5,80,83,0,1
+Priya Rao,25,Male,B.Tech AIML,8.89,0,0,0,0,0,2,3,6,97,83,0,1
+Meera Rao,22,Male,MCA,5.83,1,0,0,0,0,0,6,6,90,60,2,1
+Rahul Reddy,24,Male,B.Tech AIML,7.08,1,0,0,1,1,2,2,3,72,59,0,1
+Manoj Rao,30,Female,BCA,6.01,0,0,1,1,1,0,8,5,98,73,0,1
+Anusha Kumar,25,Male,B.Tech CSE,9.3,0,1,1,1,1,3,7,0,90,89,0,1
+Tarun Naidu,30,Male,BCA,8.24,1,0,1,1,1,3,7,5,46,65,3,1
+Neha Naidu,24,Female,B.Tech AIML,6.96,1,0,0,0,0,3,2,5,87,68,1,1
+Harsha Kumar,29,Female,B.Sc Computer Science,5.78,0,1,1,1,0,2,5,2,46,81,1,1
+Rohan Naidu,27,Male,B.Tech CSE,6.87,1,1,0,1,0,3,1,4,99,87,2,1
+Rahul Reddy,24,Female,B.Tech IT,6.93,1,0,0,0,1,0,3,5,80,46,0,1
+Manoj Gupta,23,Female,BCA,8.71,1,1,0,1,1,2,2,0,49,55,0,1
+Aditya Kumar,24,Female,B.Sc Computer Science,8.31,1,1,1,1,1,1,2,2,67,52,2,1
+Aditya Naidu,29,Female,MCA,9.4,1,0,0,1,0,0,4,2,100,58,1,1
+Keerthi Sharma,24,Female,B.Tech CSE,7.58,0,1,1,0,0,3,4,4,75,98,2,1
+Amit Patel,20,Female,B.Tech CSE,6.03,1,0,1,1,1,3,5,0,65,46,2,1
+Anjali Rao,29,Female,B.Sc Computer Science,8.64,1,0,1,0,0,3,7,4,45,70,2,1
+Manoj Sharma,23,Female,B.Tech AIML,8.85,0,0,0,1,1,1,4,0,49,61,1,1
+Anjali Gupta,22,Male,B.Tech AIML,7.97,1,1,1,1,1,1,8,0,70,73,2,1
+Ashwin Sharma,29,Male,B.Tech IT,8.89,0,1,1,1,0,0,6,6,58,49,0,1
+Kavya Gupta,28,Female,BCA,7.67,0,1,0,1,1,1,1,3,46,96,2,1
+Shreya Kumar,28,Male,B.Tech CSE,7.8,0,1,1,0,1,2,5,3,66,94,2,1
+Aditya Gupta,20,Female,B.Tech CSE,7.38,1,0,1,1,1,1,6,0,77,87,1,1
+Yash Sharma,24,Female,B.Tech AIML,5.61,0,1,1,1,0,0,7,4,63,46,2,1
+Vikram Reddy,23,Female,BCA,5.97,0,0,0,0,0,2,2,4,89,79,0,1
+Aditya Sharma,29,Male,MCA,5.64,1,0,0,0,0,3,1,3,63,88,1,1
+Akash Gupta,24,Female,B.Tech AIML,8.3,0,1,1,0,1,3,8,6,58,94,3,1
+Nikhil Gupta,26,Male,B.Tech AIML,6.88,0,1,0,1,1,0,2,2,45,93,1,1
+Meera Patel,28,Male,BCA,7.74,0,0,1,1,0,3,1,3,72,68,1,1
+Pooja Kumar,25,Male,B.Tech CSE,9.49,1,0,1,0,0,0,5,6,70,89,1,1
+Keerthi Naidu,27,Female,MCA,6.6,0,0,0,1,0,1,7,0,89,63,1,1
+Vikram Kumar,20,Male,BCA,7.31,1,0,0,1,0,1,3,2,67,45,2,1
+Arjun Gupta,26,Male,B.Sc Computer Science,8.82,0,1,0,0,1,3,1,5,64,68,2,1
+Manoj Kumar,25,Male,B.Tech IT,6.51,0,0,1,0,0,2,6,6,81,56,3,1
+Shreya Patel,30,Male,B.Tech AIML,5.84,0,1,0,1,0,0,4,0,60,64,3,1
+Bhavana Gupta,27,Female,B.Tech CSE,6.77,0,1,1,0,1,2,2,6,63,72,3,1
+Manoj Patel,26,Female,B.Tech AIML,6.21,1,1,1,1,0,3,2,3,78,97,1,1
+Harsha Sharma,25,Male,B.Tech CSE,9.59,1,1,1,1,1,1,8,2,68,47,2,1
+Kavya Patel,24,Male,B.Tech CSE,9.06,1,1,0,0,0,3,1,1,44,60,2,1
+Suresh Patel,29,Male,MCA,8.29,0,1,1,1,1,0,3,4,63,70,2,1
+Ritika Sharma,23,Male,B.Tech CSE,9.33,0,1,1,0,1,2,8,1,79,63,3,1
+Kiran Kumar,22,Male,BCA,9.04,0,1,0,1,1,0,5,2,94,55,1,1
+Ashwin Sharma,28,Male,B.Tech CSE,6.32,0,0,0,1,0,2,6,3,91,80,1,1
+Kavya Kumar,21,Female,BCA,9.43,1,1,1,0,0,2,2,3,69,88,2,1
+Rohan Rao,28,Male,B.Tech AIML,7.87,1,0,0,0,1,1,3,2,99,90,1,1
+Suresh Gupta,24,Male,B.Tech IT,9.05,0,1,0,1,0,1,3,1,82,84,2,1
+Bhavana Gupta,20,Male,B.Tech CSE,9.44,0,1,0,1,0,3,5,5,59,75,1,1
+Ashwin Rao,30,Female,B.Tech IT,6.9,1,0,0,0,1,3,8,3,53,66,1,1
+Neha Rao,25,Female,BCA,5.98,0,1,0,1,0,3,2,2,68,60,1,1
+Sneha Kumar,24,Female,MCA,6.5,1,0,0,1,1,1,3,3,72,74,3,1
+Anusha Sharma,27,Male,B.Tech CSE,7.38,1,1,0,0,1,0,1,2,71,83,3,1
+Vikram Gupta,20,Male,BCA,9.1,0,1,1,1,1,0,7,0,76,80,1,1
+Suresh Gupta,24,Male,BCA,9.29,1,1,0,0,0,3,6,6,61,80,2,1
+Keerthi Reddy,23,Female,MCA,5.53,0,0,0,0,1,3,8,1,78,77,1,1
+Neha Gupta,25,Male,BCA,7.75,1,1,1,1,1,0,6,2,83,52,3,1
+Sai Sharma,30,Male,MCA,7.34,1,1,0,0,1,1,7,1,92,88,1,1
+Priya Gupta,21,Male,B.Tech CSE,6.48,1,1,1,0,1,1,7,4,89,84,3,1
+Tarun Rao,20,Male,MCA,6.03,0,1,1,1,1,1,8,4,61,79,2,1
+Aditya Rao,30,Female,MCA,6.99,1,0,0,1,1,1,5,6,58,90,1,1
+Shreya Naidu,27,Female,BCA,9.65,1,1,1,0,1,3,6,6,91,54,2,1
+Priya Sharma,21,Female,BCA,6.92,1,1,0,0,1,2,3,0,79,92,1,1
+Arjun Kumar,30,Male,B.Sc Computer Science,7.78,0,0,0,1,1,3,2,5,89,53,0,1
+Harsha Reddy,26,Female,BCA,8.59,0,1,1,1,0,0,4,4,87,91,0,1
+Yash Reddy,26,Male,B.Tech CSE,7.1,1,1,0,1,0,0,5,4,78,51,2,1
+Vikram Patel,30,Female,B.Tech AIML,9.78,1,1,0,0,1,1,8,5,56,90,1,1
+Rahul Naidu,25,Female,MCA,9.73,0,0,1,1,1,0,7,5,46,56,1,1
+Divya Sharma,23,Male,B.Tech IT,6.61,1,0,1,1,1,2,1,2,81,68,1,1
+Priya Naidu,21,Female,B.Tech IT,7.69,0,1,1,0,1,2,4,1,48,75,1,1
+Akash Naidu,29,Female,BCA,6.82,1,0,0,0,1,2,2,4,47,48,1,1
+Sai Gupta,22,Male,B.Tech IT,6.75,1,0,0,1,0,3,1,3,48,77,3,1
+Akash Gupta,20,Female,B.Sc Computer Science,5.66,1,0,1,1,0,1,2,0,67,67,0,1
+Harsha Kumar,21,Female,B.Tech CSE,8.18,1,1,0,0,1,2,7,3,95,69,3,1
+Amit Naidu,30,Male,B.Sc Computer Science,7.71,1,0,0,1,0,1,1,6,41,64,3,1
+Aditya Naidu,28,Female,MCA,5.73,1,0,0,1,1,1,5,1,99,91,0,1
+Priya Rao,30,Female,MCA,6.73,0,0,0,0,0,0,8,4,83,90,0,1
+Arjun Naidu,20,Female,BCA,9.5,0,0,0,0,1,1,6,4,78,94,2,1
+Arjun Sharma,22,Male,BCA,6.55,1,1,0,0,1,3,1,2,100,86,3,1
+Ashwin Gupta,25,Female,BCA,6.14,0,1,1,0,1,1,4,2,94,90,1,1
+Ashwin Patel,20,Female,BCA,7.65,0,1,0,1,0,2,2,3,94,68,0,1
+Harsha Naidu,23,Male,B.Tech IT,9.84,1,0,0,0,0,3,4,6,98,66,2,1
+Yash Kumar,23,Male,B.Sc Computer Science,6.57,0,1,0,0,1,1,6,6,58,69,3,1
+Harsha Naidu,25,Female,B.Tech IT,8.46,1,1,1,0,1,2,4,2,60,71,0,1
+Sai Rao,23,Male,B.Tech CSE,8.85,1,1,1,0,0,2,4,3,76,98,1,1
+Divya Gupta,30,Female,B.Tech IT,6.55,1,1,1,0,1,1,3,5,74,76,1,1
+Yash Gupta,30,Male,MCA,8.7,0,0,0,0,1,1,4,0,85,54,0,1
+Kiran Gupta,27,Female,B.Tech CSE,7.12,1,1,0,0,1,0,1,4,86,62,2,1
+Rahul Gupta,30,Female,B.Tech AIML,8.28,0,0,0,0,0,2,6,2,90,70,0,1
+Suresh Patel,27,Male,B.Sc Computer Science,8.29,0,1,0,0,0,3,7,3,75,75,0,1
+Ritika Kumar,22,Male,BCA,7.86,1,1,0,0,0,1,8,2,42,49,2,1
+Anusha Gupta,29,Male,B.Tech AIML,5.9,1,0,0,0,1,0,5,1,76,60,3,1
+Aditya Gupta,25,Female,B.Sc Computer Science,9.18,0,0,1,0,0,3,4,6,44,66,3,1
+Keerthi Sharma,20,Female,BCA,6.91,1,0,1,1,1,1,7,0,89,84,2,1
+Ashwin Reddy,21,Male,B.Tech IT,6.32,0,1,0,1,1,2,2,0,40,64,3,1
+Suresh Rao,24,Male,B.Tech AIML,5.68,0,0,1,1,1,0,1,0,62,80,0,0
+Kavya Gupta,25,Female,B.Tech CSE,8.1,1,1,1,0,0,1,7,1,48,62,2,1
+Meera Patel,22,Male,B.Tech AIML,8.48,1,1,1,1,1,0,6,2,100,60,3,1
+Kavya Gupta,23,Female,B.Tech CSE,5.57,0,1,0,1,1,3,6,3,61,72,1,1
+Vikram Sharma,29,Male,BCA,7.75,1,0,1,1,1,3,4,2,64,62,3,1
+Suresh Kumar,29,Male,MCA,6.5,0,0,1,0,1,2,2,6,94,95,3,1
+Aditya Patel,22,Female,B.Tech AIML,8.34,1,0,1,1,0,3,8,4,65,79,3,1
+Harsha Kumar,25,Male,B.Tech CSE,6.27,0,1,0,0,1,2,7,0,40,51,2,1
+Arjun Gupta,28,Male,BCA,8.54,1,1,1,0,1,0,8,0,58,71,0,1
+Sneha Rao,22,Female,B.Tech IT,7.2,1,1,0,1,1,3,2,3,86,89,3,1
+Neha Kumar,24,Male,B.Sc Computer Science,9.62,0,0,1,0,0,1,3,4,50,66,3,1
+Akash Reddy,26,Male,B.Tech AIML,6.11,1,1,0,0,1,3,7,0,85,58,1,1
+Meera Rao,21,Male,MCA,7.0,0,1,1,0,1,0,5,5,95,76,2,1
+Kavya Patel,29,Female,MCA,6.0,0,1,1,1,0,2,2,5,48,65,0,1
+Arjun Sharma,21,Male,B.Tech IT,9.57,0,1,1,0,1,3,3,3,80,79,1,1
+Harsha Reddy,27,Female,B.Tech AIML,9.36,0,1,1,0,1,0,8,1,52,97,3,1
+Harsha Gupta,30,Female,BCA,6.63,1,1,1,1,0,0,1,6,88,59,2,1
+Priya Sharma,23,Female,B.Tech AIML,8.4,1,1,0,0,1,2,1,6,86,73,1,1
+Varun Kumar,30,Male,B.Tech IT,9.1,0,1,1,1,0,3,2,6,91,60,1,1
+Ashwin Naidu,29,Female,B.Sc Computer Science,7.94,1,0,0,0,0,0,6,4,57,83,1,1
+Neha Naidu,24,Female,MCA,7.83,1,0,0,1,0,2,3,5,95,53,1,1
+Rohan Naidu,25,Male,B.Sc Computer Science,6.56,1,1,0,1,1,3,8,0,80,95,0,1
+Pooja Gupta,24,Female,BCA,5.91,1,1,0,0,1,2,2,6,74,70,1,1
+Varun Rao,23,Female,B.Tech IT,9.45,1,1,1,0,1,2,1,0,46,85,3,1
+Rahul Kumar,22,Female,BCA,9.46,0,1,0,0,1,1,5,0,81,68,2,1
+Amit Sharma,30,Male,B.Tech CSE,8.29,1,1,0,1,0,0,1,1,70,49,1,1
+Sai Reddy,28,Female,B.Tech CSE,6.99,0,1,0,1,0,3,2,1,64,50,0,1
+Sneha Sharma,25,Female,B.Tech AIML,7.04,1,0,0,0,0,1,8,2,86,58,1,1
+Yash Patel,29,Female,B.Tech AIML,8.69,0,0,0,0,1,2,7,2,90,53,1,1
+Meera Naidu,21,Male,MCA,9.45,1,0,1,0,0,3,5,5,43,95,1,1
+Divya Patel,21,Male,BCA,9.4,0,0,1,1,0,3,7,2,74,88,1,1
+Keerthi Patel,21,Male,MCA,8.93,0,0,1,0,0,0,7,4,58,85,3,1
+Varun Naidu,26,Male,B.Sc Computer Science,8.32,0,1,0,1,0,1,3,4,60,70,0,1
+Vikram Naidu,26,Male,B.Tech CSE,5.87,0,0,1,0,1,0,5,5,87,87,1,1
+Sneha Kumar,22,Male,B.Tech AIML,6.21,1,1,1,0,1,1,5,5,96,52,0,1
+Neha Rao,26,Female,MCA,9.45,0,1,0,1,1,2,1,3,94,81,1,1
+Suresh Reddy,24,Male,MCA,8.17,0,0,0,0,0,1,1,3,63,69,1,1
+Anjali Rao,20,Female,B.Tech AIML,5.54,1,0,1,1,1,0,6,0,72,88,0,1
+Anjali Reddy,28,Male,BCA,5.95,0,1,1,1,1,0,8,0,63,57,2,1
+Sai Rao,24,Male,BCA,8.42,1,1,0,0,0,0,7,0,54,79,2,1
+Ritika Rao,20,Female,B.Tech CSE,5.52,1,1,0,0,0,3,8,0,49,90,2,1
+Amit Kumar,23,Female,B.Sc Computer Science,6.21,1,1,0,0,0,3,2,4,76,48,3,1
+Aditya Reddy,23,Female,B.Tech IT,7.91,1,1,1,1,1,2,4,0,100,57,1,1
+Keerthi Rao,29,Male,B.Tech AIML,8.54,0,0,1,1,1,3,2,4,62,94,1,1
+Akash Sharma,27,Female,B.Tech CSE,8.37,0,0,1,0,0,2,3,0,85,60,2,1
+Pooja Gupta,20,Female,B.Tech IT,6.49,0,0,1,1,0,0,8,0,91,95,1,1
+Sneha Kumar,20,Male,B.Tech AIML,8.63,0,1,1,0,1,0,1,0,52,86,3,1
+Ashwin Reddy,21,Female,B.Tech CSE,6.54,0,1,0,0,1,3,8,0,64,88,3,1
+Anjali Sharma,23,Male,B.Tech IT,6.93,1,1,0,0,0,2,8,3,96,80,3,1
+Priya Kumar,24,Female,B.Tech AIML,8.78,1,0,0,0,1,2,8,4,90,76,2,1
+Yash Gupta,28,Female,BCA,8.36,1,0,0,1,0,0,5,0,91,75,2,1
+Keerthi Gupta,23,Male,B.Tech CSE,9.24,0,0,1,0,0,3,6,6,94,56,1,1
+Arjun Gupta,25,Female,MCA,8.39,0,1,0,0,1,2,3,3,42,50,0,1
+Arjun Gupta,23,Male,MCA,8.0,1,0,1,0,0,2,3,6,94,100,2,1
+Priya Kumar,22,Male,B.Tech CSE,5.91,1,0,1,1,0,2,5,2,48,55,3,1
+Ashwin Naidu,27,Female,B.Tech AIML,7.12,1,0,0,1,1,2,3,1,86,45,3,1
+Tarun Rao,29,Male,B.Tech AIML,6.67,1,0,0,1,0,2,2,1,62,65,1,1
+Ritika Kumar,30,Female,BCA,6.57,0,1,0,0,0,2,5,6,46,91,0,1
+Priya Patel,27,Female,B.Tech AIML,9.78,1,1,1,1,1,0,8,6,95,81,1,1
+Anjali Patel,21,Male,B.Tech IT,7.23,0,1,1,0,0,2,3,3,50,91,0,1
+Harsha Kumar,25,Female,B.Sc Computer Science,9.43,0,1,0,1,0,0,2,2,53,57,3,1
+Shreya Gupta,28,Female,B.Sc Computer Science,8.28,1,1,0,0,0,3,8,1,43,68,0,1
+Varun Kumar,24,Female,B.Tech AIML,9.0,0,0,0,0,1,0,8,6,47,64,3,1
+Divya Patel,30,Female,B.Tech CSE,7.71,1,0,1,1,1,1,8,0,56,73,3,1
+Meera Reddy,24,Male,B.Tech AIML,8.04,0,0,1,1,0,0,7,6,73,71,3,1
+Sai Reddy,27,Female,B.Tech CSE,7.67,1,0,0,0,1,1,3,1,91,57,1,1
+Priya Patel,21,Female,B.Tech AIML,6.36,0,1,1,0,0,3,7,4,60,99,2,1
+Nikhil Patel,20,Female,B.Tech CSE,8.68,1,0,0,0,0,0,5,6,74,67,3,1
+Meera Patel,30,Female,MCA,6.74,1,0,0,1,1,1,7,0,65,66,1,1
+Priya Naidu,27,Female,B.Tech IT,5.61,0,1,1,1,1,3,2,6,54,53,2,1
+Manoj Patel,25,Female,B.Sc Computer Science,8.34,1,0,0,1,0,3,8,6,73,100,2,1
+Bhavana Kumar,28,Male,B.Tech CSE,6.28,1,1,0,0,0,1,4,6,43,60,0,1
+Akash Kumar,25,Male,B.Tech IT,9.64,1,1,1,0,0,1,6,3,78,73,1,1
+Tarun Patel,29,Female,B.Tech IT,9.7,0,1,0,1,0,3,1,1,94,81,1,1
+Tarun Reddy,30,Male,B.Sc Computer Science,9.53,0,1,1,0,0,3,3,5,51,83,0,1
+Arjun Sharma,29,Female,B.Sc Computer Science,7.13,1,1,1,1,1,2,4,3,59,88,3,1
+Sai Kumar,20,Female,MCA,5.57,1,1,0,1,0,2,5,5,60,100,2,1
+Meera Naidu,30,Female,B.Tech AIML,9.58,0,0,0,1,1,1,1,5,71,63,2,1
+Yash Patel,26,Female,B.Sc Computer Science,7.38,0,0,1,0,1,2,5,6,50,98,1,1
+Vikram Kumar,27,Male,B.Sc Computer Science,9.75,1,0,1,0,0,2,4,5,95,64,3,1
+Ashwin Sharma,25,Female,MCA,9.74,1,1,0,1,0,0,8,1,72,52,3,1
+Nikhil Sharma,26,Male,B.Tech AIML,9.25,0,0,1,1,1,1,6,6,85,56,0,1
+Divya Sharma,30,Male,B.Tech IT,6.8,0,0,1,1,0,1,3,3,90,93,0,1
+Rohan Gupta,26,Female,BCA,7.19,1,1,1,0,0,1,6,0,97,65,1,1
+Rahul Naidu,20,Male,B.Tech AIML,9.25,1,1,0,0,1,2,3,0,92,47,2,1
+Vikram Patel,28,Female,BCA,6.89,0,1,1,1,0,1,7,0,54,59,1,1
+Kiran Naidu,20,Male,B.Tech CSE,6.25,1,0,1,1,0,0,2,5,93,46,0,1
+Shreya Kumar,26,Female,BCA,7.95,0,1,1,0,0,0,5,3,82,51,2,1
+Kavya Gupta,22,Female,B.Tech CSE,9.62,0,1,0,0,1,1,4,6,56,98,1,1
+Suresh Naidu,26,Female,B.Tech AIML,8.56,0,1,0,1,1,1,1,0,82,50,0,1
+Bhavana Gupta,30,Female,B.Tech AIML,8.01,0,0,0,1,0,3,5,2,69,48,0,1
+Bhavana Reddy,20,Female,B.Tech IT,5.93,1,1,0,0,0,0,3,5,81,55,2,1
+Suresh Patel,29,Female,B.Sc Computer Science,8.21,0,1,1,0,0,3,7,3,57,98,3,1
+Shreya Rao,27,Female,B.Sc Computer Science,9.86,0,0,0,0,0,0,7,4,70,96,3,1
+Anjali Gupta,26,Female,MCA,6.12,0,0,1,1,0,3,8,0,44,61,2,1
+Rahul Naidu,30,Male,B.Sc Computer Science,7.78,1,0,1,0,1,2,7,1,93,97,0,1
+Rahul Naidu,22,Female,BCA,9.36,0,0,1,1,0,2,5,0,72,59,3,1
+Pooja Rao,23,Male,BCA,8.76,1,1,0,1,1,2,2,3,87,86,0,1
+Sneha Patel,26,Male,MCA,8.57,0,0,1,0,1,2,6,6,43,97,1,1
+Tarun Patel,25,Female,B.Sc Computer Science,8.59,1,1,0,0,0,0,6,2,93,85,2,1
+Harsha Gupta,25,Male,B.Tech CSE,7.08,0,1,0,1,0,2,4,1,47,99,3,1
+Kiran Patel,23,Female,B.Tech CSE,6.79,1,0,0,1,1,1,8,0,73,92,0,1
+Harsha Patel,29,Female,MCA,9.06,0,0,0,0,1,2,7,3,78,89,1,1
+Meera Patel,25,Female,BCA,9.06,0,0,1,1,1,1,4,1,79,90,2,1
+Aditya Sharma,30,Male,B.Sc Computer Science,9.32,0,1,0,1,1,3,5,6,67,96,0,1
+Nikhil Kumar,20,Female,B.Tech AIML,9.52,0,0,0,1,0,2,5,1,93,48,2,1
+Kiran Rao,28,Male,B.Tech IT,7.75,1,0,0,1,0,2,1,3,64,71,2,1
+Harsha Kumar,20,Female,B.Tech AIML,7.71,1,0,1,0,0,2,8,1,83,49,1,1
+Anjali Naidu,28,Male,BCA,9.01,0,1,1,1,0,1,5,0,61,74,1,1
+Priya Reddy,25,Male,B.Sc Computer Science,8.36,1,1,1,0,1,1,3,4,44,95,1,1
+Varun Gupta,28,Female,B.Tech CSE,8.59,1,0,0,1,1,2,5,1,100,93,3,1
+Harsha Rao,30,Male,B.Tech CSE,9.0,1,1,0,0,0,2,7,6,100,52,3,1
+Meera Gupta,24,Male,MCA,9.42,1,1,1,0,1,1,6,4,45,51,1,1
+Keerthi Gupta,28,Male,B.Sc Computer Science,6.99,0,0,0,1,0,1,7,5,92,49,1,1
+Rahul Patel,25,Male,B.Tech CSE,7.15,0,0,0,1,0,1,5,3,64,73,3,1
+Varun Sharma,20,Female,B.Sc Computer Science,5.91,0,0,0,0,0,2,2,2,90,88,2,1
+Kavya Kumar,24,Female,BCA,8.04,1,0,1,0,0,1,7,6,91,99,2,1
+Ritika Reddy,24,Female,B.Tech CSE,5.66,0,0,0,0,1,0,5,1,87,92,2,1
+Kiran Patel,30,Male,B.Tech AIML,7.55,0,0,1,0,0,1,1,6,88,80,3,1
+Ritika Gupta,21,Female,B.Sc Computer Science,7.89,0,1,0,0,1,2,6,1,82,86,1,1
+Sneha Sharma,29,Male,B.Tech AIML,6.76,1,1,1,1,1,1,6,6,60,72,1,1
+Rahul Sharma,23,Male,B.Sc Computer Science,8.1,1,1,1,0,1,3,8,3,62,94,2,1
+Divya Gupta,21,Male,B.Sc Computer Science,5.63,0,1,0,0,1,0,2,0,94,77,0,0
+Bhavana Gupta,29,Female,MCA,5.66,0,0,1,1,0,2,7,1,97,94,2,1
+Rohan Patel,28,Male,BCA,9.12,1,0,0,0,0,3,3,1,76,81,1,1
+Manoj Naidu,27,Female,B.Tech CSE,7.08,0,1,0,0,1,2,4,0,82,58,2,1
+Pooja Patel,27,Male,B.Tech CSE,6.06,1,0,1,1,0,3,7,2,77,86,0,1
+Nikhil Sharma,26,Male,MCA,7.8,1,1,1,1,1,0,3,3,50,59,0,1
+Nikhil Naidu,24,Male,B.Tech AIML,8.89,0,0,1,0,0,3,6,5,47,75,3,1
+Divya Reddy,29,Male,B.Sc Computer Science,6.45,1,0,0,0,0,1,3,5,72,47,1,1
+Priya Reddy,24,Male,MCA,8.24,1,0,1,0,0,3,8,6,70,55,1,1
+Bhavana Patel,29,Male,MCA,5.88,0,1,0,1,1,0,4,3,64,53,0,0
+Rahul Reddy,28,Female,B.Tech AIML,5.73,0,0,1,0,0,0,8,5,48,83,0,1
+Anusha Rao,30,Female,MCA,7.84,1,1,0,1,0,3,7,2,77,96,0,1
+Varun Reddy,24,Female,B.Tech AIML,7.88,0,1,1,1,0,0,1,4,73,52,0,1
+Pooja Naidu,23,Female,BCA,8.3,1,0,0,1,1,2,7,4,63,84,2,1
+Aditya Patel,23,Female,MCA,8.69,1,0,1,1,1,2,6,6,85,70,1,1
+Tarun Rao,30,Male,B.Sc Computer Science,9.79,0,1,0,0,0,3,6,6,75,84,0,1
+Anjali Patel,30,Male,B.Tech CSE,7.77,0,1,1,0,0,2,4,2,45,83,0,1
+Manoj Patel,26,Female,B.Sc Computer Science,6.92,0,0,1,1,0,1,5,1,42,95,1,1
+Kavya Reddy,30,Male,B.Tech IT,9.0,0,0,0,0,1,3,6,5,65,70,1,1
+Nikhil Kumar,21,Male,MCA,6.69,1,1,1,1,0,1,8,3,76,45,2,1
+Anjali Patel,28,Male,MCA,7.43,0,1,1,0,1,2,8,3,76,75,1,1
+Keerthi Sharma,27,Female,MCA,5.85,0,1,0,1,0,3,4,5,84,59,2,1
+Varun Sharma,28,Male,B.Sc Computer Science,5.61,1,0,1,0,1,2,2,4,99,56,3,1
+Neha Sharma,23,Female,B.Tech AIML,9.74,0,1,0,0,0,2,4,1,52,98,1,1
+Bhavana Gupta,25,Male,B.Tech CSE,9.18,0,0,1,0,0,3,6,4,60,76,2,1
+Divya Reddy,28,Female,BCA,8.56,0,0,0,1,1,0,6,3,95,88,1,1
+Akash Kumar,28,Female,B.Tech IT,7.3,0,0,0,1,0,2,6,4,95,61,1,1
+Harsha Sharma,23,Female,BCA,6.26,1,1,0,1,1,1,7,5,88,68,2,1
+Tarun Patel,24,Female,B.Tech AIML,6.19,0,0,0,1,0,3,7,1,49,96,1,1
+Divya Rao,20,Male,BCA,6.6,1,0,1,1,1,2,1,3,46,89,1,1
+Priya Reddy,24,Female,B.Sc Computer Science,7.92,0,1,1,1,1,2,5,2,41,71,0,1
+Suresh Rao,30,Male,MCA,8.64,0,1,1,1,1,3,2,3,79,63,3,1
+Ritika Reddy,22,Female,BCA,8.4,1,0,0,0,1,1,6,2,81,63,2,1
+Kavya Naidu,26,Female,BCA,6.73,1,1,1,0,0,0,3,5,55,87,2,1
+Manoj Naidu,21,Male,B.Tech AIML,9.7,1,0,0,0,1,0,1,6,65,78,0,1
+Sneha Sharma,29,Male,B.Tech CSE,8.75,1,1,0,0,1,3,3,1,73,98,1,1
+Rahul Kumar,30,Female,B.Tech IT,7.94,1,1,1,1,0,1,8,5,87,85,3,1
+Nikhil Naidu,30,Female,B.Tech IT,8.19,1,0,0,1,1,2,7,2,49,64,0,1
+Rahul Gupta,22,Female,B.Tech IT,7.35,1,0,1,1,1,0,7,6,58,83,1,1
+Ashwin Kumar,28,Female,B.Tech AIML,6.59,1,1,1,0,0,3,7,1,56,50,3,1
+Ritika Reddy,28,Female,B.Tech IT,7.07,1,1,0,0,0,1,5,0,80,74,3,1
+Meera Naidu,29,Female,B.Tech AIML,8.83,1,0,0,0,0,1,2,2,57,53,3,1
+Manoj Kumar,23,Male,B.Tech AIML,5.56,0,1,0,1,1,2,8,2,69,89,0,1
+Neha Kumar,22,Male,B.Tech IT,6.01,1,0,1,0,0,2,7,6,40,52,1,1
+Pooja Rao,27,Male,B.Sc Computer Science,5.7,0,0,1,0,0,3,7,5,59,65,1,1
+Ritika Naidu,20,Male,B.Tech IT,5.68,1,1,0,1,0,1,2,1,80,72,2,1
+Rahul Reddy,24,Male,BCA,9.26,0,0,0,1,0,2,2,1,50,76,0,1
+Aditya Gupta,25,Male,B.Tech CSE,8.6,1,0,0,0,1,1,6,4,90,86,2,1
+Ashwin Patel,23,Male,B.Sc Computer Science,7.59,1,1,0,1,0,3,8,4,58,79,3,1
+Kiran Gupta,22,Female,B.Tech IT,5.93,1,1,0,0,0,3,5,6,56,79,2,1
+Akash Kumar,30,Female,B.Sc Computer Science,7.66,0,0,1,0,1,0,7,1,73,88,3,1
+Keerthi Gupta,22,Female,B.Tech IT,7.58,1,1,0,0,0,0,3,1,95,47,1,1
+Sneha Patel,23,Male,B.Tech CSE,6.26,1,1,1,0,1,1,2,0,99,58,3,1
+Yash Rao,21,Female,B.Sc Computer Science,7.41,0,1,1,1,0,2,1,5,44,98,2,1
+Amit Reddy,28,Male,B.Tech CSE,7.25,0,1,0,0,0,1,7,5,46,94,2,1
+Aditya Patel,30,Female,B.Tech CSE,8.21,0,0,1,1,0,3,6,2,75,65,2,1
+Varun Rao,30,Female,B.Sc Computer Science,8.29,1,0,0,1,1,2,8,3,65,45,0,1
+Vikram Gupta,20,Male,B.Tech IT,5.7,0,1,0,0,1,0,5,4,72,80,1,1
+Sneha Kumar,27,Female,B.Tech AIML,7.15,0,1,1,0,0,2,5,0,76,70,1,1
+Manoj Kumar,25,Female,B.Tech AIML,8.25,1,0,1,0,1,0,1,6,61,67,3,1
+Varun Rao,21,Male,B.Sc Computer Science,7.71,0,1,0,1,0,2,3,2,72,89,1,1
+Rohan Kumar,30,Female,BCA,9.27,0,0,1,1,1,1,3,2,45,75,0,1
+Harsha Patel,24,Male,BCA,8.4,1,0,0,1,0,3,7,5,76,57,1,1
+Arjun Kumar,24,Female,B.Tech IT,6.22,0,0,1,1,1,2,4,2,62,83,0,1
+Keerthi Sharma,22,Female,MCA,5.81,1,0,1,0,0,1,6,1,88,91,0,1
+Sneha Naidu,20,Male,MCA,8.33,0,1,0,1,0,2,8,3,41,66,1,1
+Manoj Gupta,23,Male,MCA,5.62,1,1,0,0,1,0,5,1,43,63,1,0
+Ashwin Naidu,29,Female,B.Tech CSE,8.08,1,0,0,1,1,2,2,0,58,100,3,1
+Arjun Patel,28,Male,B.Tech IT,9.64,1,0,0,0,1,0,1,1,99,78,2,1
+Neha Patel,26,Male,B.Tech CSE,8.03,1,1,1,1,0,2,1,5,56,69,0,1
+Harsha Sharma,23,Male,B.Tech IT,7.21,1,0,0,1,0,3,4,4,49,72,2,1
+Yash Gupta,25,Female,MCA,8.33,0,0,0,0,0,2,3,3,98,94,1,1
+Ritika Gupta,22,Female,B.Tech CSE,7.52,0,0,1,0,0,2,7,3,59,73,2,1
+Rohan Rao,23,Male,B.Tech AIML,7.9,0,0,1,0,0,1,1,2,45,89,3,1
+Rohan Gupta,29,Female,B.Sc Computer Science,9.64,1,0,1,1,1,1,3,1,54,47,3,1
+Keerthi Kumar,24,Female,B.Tech AIML,7.2,0,0,0,0,1,3,6,6,69,60,3,1
+Pooja Rao,20,Female,B.Sc Computer Science,9.73,1,1,0,0,1,3,1,1,73,79,3,1
+Manoj Kumar,28,Female,MCA,9.48,0,0,1,1,1,2,5,3,50,72,2,1
+Kavya Kumar,28,Male,BCA,6.36,1,0,0,0,0,3,7,2,68,46,1,1
+Akash Gupta,23,Female,B.Tech CSE,5.81,1,1,0,0,0,0,8,5,63,50,3,1
+Manoj Rao,28,Male,BCA,5.94,1,0,0,1,0,1,3,1,89,90,0,1
+Varun Sharma,24,Female,B.Tech IT,5.58,0,0,0,0,0,2,1,3,71,99,3,1
+Harsha Rao,20,Female,B.Tech AIML,5.92,0,1,1,1,1,0,1,1,96,80,2,1
+Kavya Naidu,28,Male,B.Tech CSE,8.51,0,0,0,1,0,1,1,5,76,98,2,1
+Neha Kumar,20,Male,BCA,5.81,0,0,1,0,1,2,1,0,89,64,2,1
+Suresh Patel,21,Female,MCA,6.9,0,1,1,0,0,2,6,4,66,78,1,1
+Shreya Reddy,29,Male,B.Tech CSE,9.22,0,1,1,1,1,2,6,1,79,81,3,1
+Nikhil Naidu,30,Female,BCA,5.6,0,0,1,0,0,0,1,3,80,95,0,0
+Manoj Rao,23,Female,BCA,9.08,0,1,1,0,0,1,5,2,90,49,2,1
+Vikram Gupta,28,Female,B.Tech CSE,6.74,0,1,1,1,0,1,4,2,93,66,3,1
+Yash Patel,20,Male,BCA,6.02,0,1,1,1,1,0,5,4,86,88,2,1
+Harsha Gupta,20,Male,MCA,8.57,1,1,0,0,1,0,6,3,80,79,1,1
+Sai Gupta,26,Male,MCA,8.27,0,1,1,0,1,3,2,3,96,60,2,1
+Akash Rao,24,Male,MCA,9.36,1,0,0,1,0,1,2,3,72,46,3,1
+Anusha Gupta,22,Male,B.Tech IT,8.73,1,1,1,0,0,1,4,5,42,74,3,1
+Shreya Rao,28,Male,B.Tech CSE,9.04,1,0,0,1,1,0,2,4,89,87,2,1
+Rahul Gupta,24,Male,B.Tech IT,6.74,0,0,1,1,1,3,2,2,49,55,2,1
+Sneha Kumar,29,Male,B.Tech AIML,6.28,1,1,1,0,1,1,3,0,59,84,2,1
+Harsha Patel,20,Male,B.Tech CSE,8.8,1,0,0,1,0,0,7,3,51,90,3,1
+Kavya Sharma,24,Female,B.Tech AIML,9.05,0,1,0,0,1,0,8,2,83,86,3,1
+Divya Reddy,23,Male,MCA,9.86,1,1,1,0,1,2,8,3,41,49,3,1
+Sneha Sharma,27,Female,B.Tech AIML,7.32,1,1,0,0,1,0,6,4,81,49,2,1
+Harsha Patel,26,Female,B.Tech AIML,7.14,0,0,1,1,0,2,4,6,84,82,3,1
+Ashwin Patel,29,Female,MCA,8.92,0,0,0,1,0,3,6,4,46,97,3,1
+Anjali Sharma,26,Male,MCA,7.0,0,1,1,1,0,0,4,6,48,82,0,1
+Keerthi Reddy,30,Male,BCA,9.6,1,1,1,0,0,2,5,4,90,88,2,1
+Yash Patel,25,Male,MCA,9.28,0,1,0,1,0,2,1,0,85,80,2,1
+Sneha Rao,24,Male,B.Tech AIML,7.39,1,1,1,1,1,3,7,4,53,87,1,1
+Divya Reddy,23,Female,B.Tech IT,8.8,1,0,1,0,0,0,2,5,41,54,3,1
+Aditya Patel,22,Male,B.Tech AIML,8.82,1,1,1,0,1,3,8,3,62,59,1,1
+Varun Gupta,20,Female,B.Sc Computer Science,5.95,0,1,1,1,0,0,8,5,63,52,3,1
+Shreya Kumar,22,Female,BCA,9.47,0,0,0,1,0,2,1,2,74,94,0,1
+Divya Patel,28,Female,MCA,7.72,1,1,1,1,1,1,1,5,99,83,2,1
+Manoj Rao,29,Female,B.Tech CSE,9.14,1,0,0,1,0,2,8,0,48,77,0,1
+Tarun Rao,24,Female,B.Tech AIML,6.91,1,1,1,0,0,1,3,5,68,68,1,1
+Meera Rao,23,Female,B.Tech AIML,9.44,0,1,0,0,0,3,7,6,64,60,3,1
+Manoj Naidu,22,Male,MCA,7.21,1,0,1,0,0,1,8,3,70,64,3,1
+Manoj Rao,28,Male,BCA,5.55,1,1,1,0,1,0,5,6,68,69,2,1
+Nikhil Naidu,20,Male,MCA,9.48,1,1,1,1,1,2,2,2,81,82,3,1
+Akash Rao,30,Male,B.Sc Computer Science,5.9,0,1,0,1,0,0,2,0,66,51,0,0
+Aditya Patel,25,Male,B.Sc Computer Science,6.9,1,1,0,0,0,0,1,4,82,98,1,1
+Kavya Naidu,21,Male,B.Tech CSE,9.68,0,1,0,0,0,2,5,3,82,49,3,1
+Yash Sharma,26,Female,B.Tech IT,9.68,0,0,1,0,1,3,6,0,56,97,2,1
+Anjali Patel,21,Female,B.Tech AIML,8.02,1,0,1,0,0,3,4,4,81,51,3,1
+Shreya Sharma,21,Male,B.Tech CSE,8.28,0,1,1,0,1,1,1,0,82,69,2,1
+Rohan Naidu,25,Female,MCA,7.47,0,1,1,1,1,0,4,0,64,89,3,1
+Sneha Gupta,28,Female,B.Tech IT,6.79,1,1,0,0,1,2,2,6,69,93,2,1
+Ritika Reddy,22,Male,BCA,6.95,0,1,1,0,1,3,2,5,68,92,1,1
+Rohan Kumar,23,Male,B.Sc Computer Science,8.46,0,1,1,0,1,3,8,0,42,66,0,1
+Neha Rao,20,Female,B.Tech CSE,8.81,0,1,0,0,0,0,3,3,81,46,3,1
+Yash Gupta,20,Male,B.Sc Computer Science,8.98,0,0,0,0,1,0,8,4,50,98,0,1
+Bhavana Rao,21,Male,BCA,8.97,0,0,0,1,1,3,6,0,83,81,1,1
+Neha Rao,23,Male,MCA,5.9,0,1,0,0,1,1,7,1,84,68,1,1
+Akash Reddy,29,Male,B.Tech AIML,7.68,0,1,0,0,1,0,1,0,51,50,2,0
+Varun Naidu,27,Male,B.Tech AIML,5.75,0,1,1,1,0,1,1,4,51,90,3,1
+Kavya Kumar,30,Female,B.Tech IT,7.92,1,0,0,0,0,0,6,6,88,79,1,1
+Akash Rao,30,Male,B.Tech IT,7.44,0,0,0,0,1,3,3,1,82,47,0,1
+Ritika Sharma,24,Male,BCA,9.41,1,1,1,0,0,0,3,1,90,46,3,1
+Nikhil Kumar,21,Male,B.Sc Computer Science,7.04,1,1,1,0,1,1,2,2,54,51,1,1
+Manoj Patel,23,Female,B.Tech AIML,6.02,0,1,1,0,1,1,4,4,69,56,3,1
+Suresh Reddy,27,Male,B.Sc Computer Science,6.13,1,1,0,1,0,0,1,2,48,52,3,1
+Akash Patel,22,Female,B.Tech AIML,8.85,1,0,0,0,0,3,8,6,53,82,3,1
+Bhavana Patel,24,Male,B.Sc Computer Science,8.22,1,0,0,1,1,1,3,4,97,45,3,1
+Priya Kumar,27,Male,BCA,5.94,1,1,0,1,1,1,2,4,88,45,3,1
+Kiran Reddy,25,Female,B.Tech AIML,5.87,0,0,1,1,0,3,1,3,69,94,1,1
+Tarun Naidu,26,Male,B.Tech IT,8.58,1,0,0,1,1,0,5,3,88,62,1,1
+Ashwin Naidu,21,Female,B.Sc Computer Science,5.82,0,1,0,0,1,2,8,4,42,68,2,1
+Anjali Naidu,28,Male,MCA,9.12,0,0,1,0,0,3,4,6,87,93,1,1
+Neha Sharma,24,Female,B.Tech IT,8.61,0,0,1,1,1,3,2,3,85,79,2,1
+Akash Gupta,25,Male,B.Tech AIML,5.86,1,0,0,1,0,2,2,0,50,62,0,0
+Shreya Reddy,27,Male,B.Tech AIML,5.87,0,1,1,0,1,2,7,3,87,86,0,1
+Vikram Reddy,21,Male,B.Tech AIML,9.84,1,1,1,1,1,3,8,2,76,53,2,1
+Anjali Rao,24,Male,BCA,7.15,1,1,0,0,1,2,8,1,79,55,2,1
+Anjali Reddy,30,Male,B.Tech AIML,7.13,0,0,0,1,0,3,5,2,51,58,0,1
+Aditya Sharma,25,Male,B.Tech IT,9.08,1,0,1,0,0,3,8,6,49,74,2,1
+Rohan Kumar,28,Female,B.Sc Computer Science,9.67,1,1,1,0,1,2,2,5,70,47,1,1
+Aditya Gupta,21,Female,B.Tech CSE,9.84,1,0,1,1,0,2,1,4,81,57,1,1
+Ashwin Rao,24,Male,B.Tech CSE,8.81,0,1,0,1,0,3,6,4,78,77,0,1
+Yash Naidu,25,Female,B.Tech AIML,7.16,1,1,1,1,0,2,6,2,59,73,0,1
+Kiran Naidu,27,Female,BCA,5.87,1,0,1,1,0,0,3,1,59,75,2,1
+Amit Gupta,26,Male,B.Tech CSE,8.92,1,1,1,0,1,1,4,1,93,69,2,1
+Harsha Patel,20,Female,MCA,7.96,1,1,1,0,0,0,3,2,59,85,3,1
+Sneha Naidu,30,Female,BCA,7.37,0,1,0,0,0,2,8,0,78,92,2,1
+Sai Patel,29,Female,B.Tech IT,9.49,1,0,1,0,1,1,1,1,60,74,1,1
+Suresh Reddy,20,Female,B.Tech IT,5.99,1,1,0,1,1,0,4,6,80,56,0,1
+Kavya Rao,22,Female,B.Tech IT,7.67,1,1,1,0,1,1,1,1,73,63,2,1
+Keerthi Patel,26,Female,B.Tech AIML,5.55,0,0,0,0,0,0,7,3,98,49,0,0
+Bhavana Reddy,20,Female,B.Tech IT,7.56,1,1,0,1,1,1,5,0,87,97,0,1
+Arjun Reddy,22,Male,B.Tech IT,5.75,0,0,0,0,1,0,2,0,89,75,3,1
+Priya Reddy,21,Male,B.Sc Computer Science,6.02,0,1,0,1,0,0,5,5,40,93,0,1
+Ashwin Kumar,29,Male,MCA,6.02,0,0,1,0,0,1,5,4,62,67,1,1
+Tarun Gupta,29,Male,MCA,8.36,0,0,0,0,0,2,3,6,74,45,0,1
+Yash Reddy,28,Female,B.Tech IT,8.78,0,1,0,0,1,3,7,1,72,59,3,1
+Sneha Rao,25,Male,BCA,8.07,0,0,1,1,1,0,2,2,71,52,3,1
+Vikram Patel,29,Female,B.Sc Computer Science,9.73,1,0,1,1,1,1,2,6,91,75,2,1
+Anjali Kumar,30,Female,B.Sc Computer Science,7.15,0,1,1,0,0,1,7,3,84,82,0,1
+Manoj Reddy,21,Female,B.Tech AIML,6.76,1,0,1,0,0,3,8,2,88,90,2,1
+Keerthi Rao,30,Female,B.Tech IT,9.32,1,1,1,1,0,3,2,0,56,76,3,1
+Arjun Naidu,22,Male,B.Tech CSE,6.48,0,0,1,0,0,3,6,1,59,84,0,1
+Keerthi Kumar,30,Female,BCA,9.74,0,1,1,1,1,2,1,6,42,72,0,1
+Pooja Patel,25,Female,BCA,5.55,1,0,0,0,1,1,8,3,48,64,3,1
+Divya Rao,21,Female,B.Sc Computer Science,9.77,1,1,0,0,1,2,8,4,64,84,2,1
+Keerthi Sharma,25,Male,B.Tech CSE,5.69,0,0,1,1,0,2,7,0,67,67,2,1
+Varun Sharma,20,Male,B.Tech AIML,9.42,0,1,0,0,1,0,6,1,41,79,2,1
+Priya Patel,30,Female,MCA,7.82,1,1,0,1,0,2,7,4,64,65,0,1
+Ashwin Patel,21,Male,B.Tech IT,9.87,1,1,0,1,1,3,4,3,80,99,0,1
+Bhavana Rao,28,Male,B.Tech IT,5.82,1,0,1,1,0,0,2,4,61,62,0,0
+Sai Rao,28,Female,BCA,7.94,0,1,0,1,1,3,6,1,66,70,2,1
+Kavya Gupta,27,Male,B.Tech CSE,9.76,0,1,0,1,1,3,1,4,52,68,3,1
+Rohan Reddy,22,Female,BCA,7.8,1,1,0,0,1,2,5,5,50,61,1,1
+Pooja Reddy,21,Male,B.Tech AIML,8.27,0,0,1,1,1,3,7,5,97,47,1,1
+Anjali Sharma,22,Male,B.Tech IT,8.56,1,0,0,1,0,0,2,2,78,64,0,1
+Anusha Patel,25,Male,BCA,7.5,0,0,0,0,1,3,2,1,78,52,2,1
+Neha Rao,29,Female,B.Sc Computer Science,8.26,0,1,0,0,0,1,4,2,68,71,2,1
+Tarun Gupta,20,Female,MCA,8.07,1,0,1,1,1,1,5,6,99,54,2,1
+Divya Naidu,25,Female,B.Tech CSE,9.47,0,0,0,1,1,2,6,6,83,52,1,1
+Tarun Patel,26,Male,BCA,5.7,1,1,0,0,1,1,3,3,80,65,3,1
+Ashwin Kumar,24,Male,BCA,6.74,1,1,1,1,0,1,5,4,44,67,3,1
+Kavya Naidu,28,Female,BCA,9.68,0,0,0,1,0,0,7,1,80,64,2,1
+Sai Kumar,21,Male,B.Tech AIML,9.42,0,1,1,1,1,1,5,1,83,82,2,1
+Ashwin Sharma,23,Male,BCA,7.5,1,0,1,1,0,0,1,4,81,84,1,1
+Yash Kumar,27,Male,B.Tech IT,8.23,0,0,1,1,1,1,2,2,50,81,0,1
+Rahul Naidu,28,Female,BCA,6.72,1,0,0,0,0,2,5,5,71,69,1,1
+Varun Rao,23,Male,B.Tech IT,6.33,0,1,0,1,0,0,5,2,55,84,3,1
+Yash Reddy,25,Female,B.Tech CSE,7.54,0,1,0,1,1,1,7,5,67,92,2,1
+Amit Kumar,28,Male,B.Tech CSE,7.05,1,0,1,1,0,0,5,4,79,69,2,1
+Pooja Naidu,25,Male,MCA,8.07,0,0,1,0,1,2,8,1,45,65,3,1
+Rohan Sharma,21,Female,B.Tech CSE,5.84,0,1,1,1,1,2,5,4,93,93,2,1
+Nikhil Sharma,26,Male,B.Tech IT,9.79,1,0,1,0,0,1,1,1,51,47,3,1
+Meera Reddy,27,Female,B.Tech CSE,9.84,1,0,1,1,1,3,8,0,94,91,1,1
